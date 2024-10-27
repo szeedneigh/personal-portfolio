@@ -36,7 +36,7 @@ function Skills() {
               </div>
             </div>
             <div className="progress-box mt-4 pt-2">
-              <h6 className="title fw-normal text-muted">Full Stack Development</h6>
+              <h6 className="title fw-normal text-muted">Full Stack</h6>
               <div className="progress">
                 <div
                   className="progress-bar progress-animate position-relative rounded-pill"
