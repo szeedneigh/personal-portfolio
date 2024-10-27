@@ -10,7 +10,7 @@ function Skills() {
               <h3 className="title">Skills.</h3>
             </div>
             <p className="text-muted para-desc mb-4">
-              My <strong>UNMATCHED PERSPICACITY</strong> coupled with sheer indefagatigability <br />
+              My <strong>UNMATCHED PERSPICACITY</strong> coupled with sheer indefatigability <br />
               makes me a feared opponent in any realm of human endeavor.
             </p>
             <div className="progress-box mt-4">
